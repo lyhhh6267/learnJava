@@ -5,5 +5,5 @@ package generic_;
  * @date 2021/10/18 9:03
  */
 public class GenericExercise {
-mainmai
+
 }
